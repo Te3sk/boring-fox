@@ -163,6 +163,10 @@ a {
     padding: 4px;
 }
 
+a:hover {
+    color: #c9c9c9; /* Change color on hover */
+}
+
 .columns {
     display: flex;
     justify-content: space-between;

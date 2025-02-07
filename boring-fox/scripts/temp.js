@@ -12,9 +12,9 @@ window.addEventListener('load', () => {
         WEATHER INFORMATION CONFIG
     ========================================== */
 
-    const apiKey = ''; // Example
-    const country = 'UK'; // Example
-    const location = 'London'; // Example
+    const apiKey = '7b958943af461d20631ff3ef62979d7b'; 
+    const country = 'IT'; 
+    const location = 'Pisa';
 
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}`;
     const forecastUrl = `https://api.openweathermap.org/data/2.5/forecast?q=${location}&appid=${apiKey}`;

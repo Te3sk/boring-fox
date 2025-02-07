@@ -9,57 +9,57 @@ const DATA = {
       "label": "1",
       "categories": [
         {
-          "name": "Category 1",
+          "name": "Productivity",
           "links": [
-            { "text": "Link #1", "href": "" },
-            { "text": "Link #2", "href": "" },
-            { "text": "Link #3", "href": "" },
-            { "text": "Link #4", "href": "" }
+            { "text": "Click Up", "href": "https://app.clickup.com/9012429639/home" }, 
+            { "text": "Calendar", "href": "https://calendar.google.com/calendar/u/0/r/week" },
+            { "text": "Personal GDrive", "href": "https://drive.google.com/drive/u/0/my-drive" },
+            { "text": "Chat GPT", "href": "https://chatgpt.com/" }
           ]
         },
         {
-          "name": "Category 2",
+          "name": "Digital On",
           "links": [
-            { "text": "Link #5", "href": "" },
-            { "text": "Link #6", "href": "" },
-            { "text": "Link #7", "href": "" },
+            { "text": "Click Up", "href": "https://app.clickup.com/9015783623/home" },
+            { "text": "Blue Host", "href": "https://www.bluehost.com/my-account/login" },
+            { "text": "Digital ON GDrive", "href": "https://drive.google.com/drive/u/8/home" },
             { "text": "Link #8", "href": "" }
           ]
         },
         {
-          "name": "Category 3",
+          "name": "AI Tool",
           "links": [
-            { "text": "Link #9", "href": "" },
-            { "text": "Link #10", "href": "" },
-            { "text": "Link #11", "href": "" },
+            { "text": "Chat GPT", "href": "https://chatgpt.com/" },
+            { "text": "Gemini", "href": "https://gemini.google.com/" },
+            { "text": "Link@11", "href": "" },
             { "text": "Link #12", "href": "" }
           ]
         },
         {
-          "name": "Category 4",
+          "name": "University",
           "links": [
-            { "text": "Link #13", "href": "" },
-            { "text": "Link #14", "href": "" },
-            { "text": "Link #15", "href": "" },
-            { "text": "Link #16", "href": "" }
+            { "text": "e-Learning", "href": "https://elearning.di.unipi.it/" },
+            { "text": "Valutami", "href": "https://esami.unipi.it/auth/session.php" },
+            { "text": "MatLab", "href": "https://matlab.mathworks.com/" },
+            { "text": "Portale Alice", "href": "https://www.studenti.unipi.it/Home.do" }
           ]
         },
         {
-          "name": "Category 5",
+          "name": "Finance",
           "links": [
-            { "text": "Link #17", "href": "" },
-            { "text": "Link #18", "href": "" },
-            { "text": "Link #19", "href": "" },
-            { "text": "Link #20", "href": "" }
+            { "text": "Home Banking", "href": "https://homebanking.bpergroup.net//wps/portal/hb/home/ibpr/sec/login/login?bank=05387&channel=IBPR&a=1&_ga=2.248626126.83323429.1609262983-1963081641.1609262983" },
+            { "text": "PayPal", "href": "https://paypal.me/NiccoFulgaro" },
+            { "text": "CoinBase", "href": "https://www.coinbase.com/home" },
+            { "text": "Wallet Budget Manager", "href": "https://web.budgetbakers.com/dashboard" }
           ]
         },
         {
-          "name": "Category 6",
+          "name": "Entertainment",
           "links": [
-            { "text": "Link #21", "href": "" },
-            { "text": "Link #22", "href": "" },
-            { "text": "Link #23", "href": "" },
-            { "text": "Link #24", "href": "" }
+            { "text": "Spotify", "href": "https://open.spotify.com" },
+            { "text": "Youtube", "href": "https://www.youtube.com/" },
+            { "text": "Prime Video", "href": "https://www.primevideo.com/" },
+            { "text": "Instagram", "href": "https://instagram.com" }
           ]
         }
       ]
@@ -69,16 +69,16 @@ const DATA = {
       "label": "2",
       "categories": [
         {
-          "name": "Category 1",
+          "name": "Web Dev",
           "links": [
-            { "text": "Link #1", "href": "" },
-            { "text": "Link #2", "href": "" },
-            { "text": "Link #3", "href": "" },
-            { "text": "Link #4", "href": "" }
+            { "text": "Dribble", "href": "https://dribbble.com/" },
+            { "text": "Coloors", "href": "https://coolors.co/" },
+            { "text": "Icons8", "href": "https://icons8.it/icons" },
+            { "text": "Canva", "href": "https://canva.com" }
           ]
         },
         {
-          "name": "Category 2",
+          "name": "",
           "links": [
             { "text": "Link #5", "href": "" },
             { "text": "Link #6", "href": "" },
