@@ -14,7 +14,7 @@ const DATA = {
             { "text": "Click Up", "href": "https://app.clickup.com/9012429639/home" }, 
             { "text": "Calendar", "href": "https://calendar.google.com/calendar/u/0/r/week" },
             { "text": "Personal GDrive", "href": "https://drive.google.com/drive/u/0/my-drive" },
-            { "text": "Chat GPT", "href": "https://chatgpt.com/" }
+            { "text": "Dillinger", "href": "https://dillinger.io/" }
           ]
         },
         {
@@ -23,7 +23,7 @@ const DATA = {
             { "text": "Click Up", "href": "https://app.clickup.com/9015783623/home" },
             { "text": "Blue Host", "href": "https://www.bluehost.com/my-account/login" },
             { "text": "Digital ON GDrive", "href": "https://drive.google.com/drive/u/8/home" },
-            { "text": "Link #8", "href": "" }
+            { "text": "Go High Level", "href": "https://www.gohighlevel.com/main-page" }
           ]
         },
         {
@@ -31,7 +31,7 @@ const DATA = {
           "links": [
             { "text": "Chat GPT", "href": "https://chatgpt.com/" },
             { "text": "Gemini", "href": "https://gemini.google.com/" },
-            { "text": "Link@11", "href": "" },
+            { "text": "Google AI Studio", "href": "" },
             { "text": "Link #12", "href": "" }
           ]
         },
@@ -73,53 +73,62 @@ const DATA = {
           "links": [
             { "text": "Dribble", "href": "https://dribbble.com/" },
             { "text": "Coloors", "href": "https://coolors.co/" },
-            { "text": "Icons8", "href": "https://icons8.it/icons" },
+            { "text": "CSS Gradient", "href": "https://cssgradient.io/" },
             { "text": "Canva", "href": "https://canva.com" }
           ]
         },
         {
           "name": "",
           "links": [
-            { "text": "Link #5", "href": "" },
-            { "text": "Link #6", "href": "" },
-            { "text": "Link #7", "href": "" },
-            { "text": "Link #8", "href": "" }
+            { "text": "Icons8", "href": "https://icons8.it/icons" },
+            { "text": "Mockey Mockups", "href": "https://mockey.ai/mockups" },
+            { "text": "Vecteezy", "href": "https://it.vecteezy.com/" },
+            { "text": "SVG Icons", "href": "https://fontawesomeicons.com/svg/icons?search=arrow+drop+down" }
           ]
         },
         {
-          "name": "Category 3",
+          "name": "TV",
           "links": [
-            { "text": "Link #9", "href": "" },
-            { "text": "Link #10", "href": "" },
-            { "text": "Link #11", "href": "" },
-            { "text": "Link #12", "href": "" }
+            { "text": "Prime Video", "href": "https://www.primevideo.com/" },
+            { "text": "Straming Community", "href": "https://streamingcommunity.paris/" },
+            { "text": "Rai Play", "href": "https://www.raiplay.it/" },
+            { "text": "Google List", "href": "https://www.google.com/interests/saved" }
           ]
         },
         {
-          "name": "Category 4",
+          "name": "Social",
           "links": [
-            { "text": "Link #13", "href": "" },
-            { "text": "Link #14", "href": "" },
-            { "text": "Link #15", "href": "" },
-            { "text": "Link #16", "href": "" }
+            { "text": "Instagram", "href": "https://www.instagram.com/" },
+            { "text": "Reddit", "href": "https://www.reddit.com/" },
+            { "text": "Whatsapp", "href": "https://web.whatsapp.com/" },
+            { "text": "Telegram", "href": "https://web.telegram.org/" }
           ]
         },
         {
-          "name": "Category 5",
+          "name": "Dev",
           "links": [
-            { "text": "Link #17", "href": "" },
-            { "text": "Link #18", "href": "" },
-            { "text": "Link #19", "href": "" },
-            { "text": "Link #20", "href": "" }
+            { "text": "Git Hub", "href": "https://github.com/" },
+            { "text": "Netlify", "href": "https://app.netlify.com/" },
+            { "text": "Google Collab", "href": "https://colab.research.google.com/" },
+            { "text": "Vault", "href": "https://portal.cloud.hashicorp.com/orgs/91e40d80-c1ce-492a-bdfb-295b40011f05/projects/af39de1f-dec2-4ec8-8e05-f3b84c4942f8" }
           ]
         },
+        // {
+        //   "name": "Shopping",
+        //   "links": [
+        //     { "text": "Amazon", "href": "https://www.amazon.it/" },
+        //     { "text": "Zalando Privé", "href": "https://www.zalando-prive.it/" },
+        //     { "text": "Asos", "href": "https://www.asos.com/it/" },
+        //     { "text": "Trova Prezzi", "href": "https://www.trovaprezzi.it/" }
+        //   ]
+        // },
         {
-          "name": "Category 6",
+          "name": "Utils",
           "links": [
-            { "text": "Link #21", "href": "" },
-            { "text": "Link #22", "href": "" },
-            { "text": "Link #23", "href": "" },
-            { "text": "Link #24", "href": "" }
+            { "text": "Tini Wow PDF", "href": "https://tinywow.com/" },
+            { "text": "Soundiiz", "href": "https://soundiiz.com/webapp/playlists" },
+            { "text": "Temp Mail", "href": "https://adguard.com/it/adguard-temp-mail/overview.html" },
+            { "text": "Flat Hub - Linux Store", "href": "https://flathub.org/home" }
           ]
         }
       ]
