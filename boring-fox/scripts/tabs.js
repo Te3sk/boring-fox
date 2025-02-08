@@ -184,12 +184,12 @@ async function populateContent(contentId) {
         const j = Math.floor(i / 2);
         if (columns[j]) {
             const html = `
-                <li>
-                    <span class="folder">${category.name}</span>
-                    <ul class="sub-list">
-                        ${category.links.map(link => `<li><a href="${link.href}">${link.text}</a></li>`).join('')}
-                    </ul>
-                </li>
+              <li>
+                <span class="folder">${category.name}</span>
+                <ul class="sub-list">
+                  ${category.links.map(link => `<li><a href="${link.href}" target="_blank">${link.text}</a></li>`).join('')}
+                </ul>
+              </li>
             `;
             const bookmarksContainer = document.createElement("div");
             bookmarksContainer.className = "bookmarks-container";
